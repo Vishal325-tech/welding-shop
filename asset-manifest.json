@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/welding-shop/static/css/main.9b8f0ce7.css",
-    "main.js": "/welding-shop/static/js/main.724de873.js",
-    "static/js/453.96a367a9.chunk.js": "/welding-shop/static/js/453.96a367a9.chunk.js",
-    "index.html": "/welding-shop/index.html",
-    "main.9b8f0ce7.css.map": "/welding-shop/static/css/main.9b8f0ce7.css.map",
-    "main.724de873.js.map": "/welding-shop/static/js/main.724de873.js.map",
-    "453.96a367a9.chunk.js.map": "/welding-shop/static/js/453.96a367a9.chunk.js.map"
+    "main.css": "/static/css/main.28562734.css",
+    "main.js": "/static/js/main.ce59bcbb.js",
+    "static/js/453.bcec2add.chunk.js": "/static/js/453.bcec2add.chunk.js",
+    "index.html": "/index.html",
+    "main.28562734.css.map": "/static/css/main.28562734.css.map",
+    "main.ce59bcbb.js.map": "/static/js/main.ce59bcbb.js.map",
+    "453.bcec2add.chunk.js.map": "/static/js/453.bcec2add.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b8f0ce7.css",
-    "static/js/main.724de873.js"
+    "static/css/main.28562734.css",
+    "static/js/main.ce59bcbb.js"
   ]
 }
